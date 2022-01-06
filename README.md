@@ -1,10 +1,8 @@
+# CV - Jeremy D Harris - 2022
 
-# created Feb 2021
+-- CV updated 01/06/22 --
 
-# cv_jdh_2021
-CV updated March, 2021
-
-just open the pdf in the browser to view/download
-
-if you want to use as a template, note that you have to use xelatex in order to compile;
-I use texshop as an interface
+**Instructions:** <br>
+-- Just open the pdf in the browser to view/download
+<br>
+-- If you want to use as a template, note that you have to use xelatex in order to compile; I use texshop as an interface
