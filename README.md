@@ -1,6 +1,6 @@
-# CV - Jeremy D Harris - 2022
+# CV - Jeremy D Harris - 2023
 
--- CV updated 01/06/22 --
+-- CV updated 02/20/23 --
 
 **Instructions:** <br>
 -- Just open the pdf in the browser to view/download
