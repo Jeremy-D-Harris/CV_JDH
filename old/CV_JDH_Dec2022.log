@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  28 DEC 2022 16:20
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  20 FEB 2023 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -906,14 +906,36 @@ File: resources/europasscv-icons/mail_europass_icon.pdf Graphic file (type pdf)
 File: resources/europasscv-icons/github_icon.png Graphic file (type bmp)
 <resources/europasscv-icons/github_icon.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 398.
+(Font)              <7> on input line 428.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 398.
+(Font)              <5> on input line 428.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+Underfull \hbox (badness 1242) in paragraph at lines 428--428
+\TU/texgyreheros-regular.otf(0)/m/n/10 efficiency of influenza A virus producti
+on and shape the interferon response.”
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 428--428
+[]\TU/texgyreheros-regular.otf(0)/m/n/10 Harris, J.D. and Ermentrout, G.B. (201
+8). “Traveling waves in a spatially-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+\TU/texgyreheros-regular.otf(0)/m/n/10 distributed Wilson-Cowan model of cortex
+: From fronts to pulses.”
+ []
+
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -922,41 +944,18 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 
 ]
-Underfull \hbox (badness 1242) in paragraph at lines 427--427
-\TU/texgyreheros-regular.otf(0)/m/n/10 efficiency of influenza A virus producti
-on and shape the interferon response.”
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
 
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 427--427
-[]\TU/texgyreheros-regular.otf(0)/m/n/10 Harris, J.D. and Ermentrout, G.B. (201
-8). “Traveling waves in a spatially-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--427
-\TU/texgyreheros-regular.otf(0)/m/n/10 distributed Wilson-Cowan model of cortex
-: From fronts to pulses.”
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
 []\TU/texgyreheros-regular.otf(0)/m/n/10 Harris, J.D. and Ermentrout, G.B. (201
 5). “Bifurcations
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 437--437
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
 \TU/texgyreheros-regular.otf(0)/m/n/10 in the Wilson–Cowan equations with nonsm
 ooth firing rate.”
  []
@@ -964,45 +963,45 @@ ooth firing rate.”
 
 LaTeX Font Warning: Font shape `TU/texgyreheros-regular.otf(1)/bx/n' undefined
 (Font)              using `TU/texgyreheros-regular.otf(1)/m/n' instead on input
- line 485.
+ line 486.
 
 [2]
-Underfull \hbox (badness 7981) in paragraph at lines 539--539
+Underfull \hbox (badness 7981) in paragraph at lines 540--540
 []\TU/texgyreheros-regular.otf(1)/bx/n/10 Poster presentation – “Modeling asymp
 tomatic transmission in COVID-19.”
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 574--574
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
 
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 574--574
+Underfull \hbox (badness 2865) in paragraph at lines 575--575
 []\TU/texgyreheros-regular.otf(1)/bx/n/10 Conference talk – “Bifurcation analys
 is of the Wilson-Cowan equations with
  []
 
 [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 882--882
+Underfull \hbox (badness 10000) in paragraph at lines 883--883
 
  []
 
 
 AED: lastpage setting LastPage
 [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 989.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 989.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 990.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 990.
  (./CV_JDH_Dec2022.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 989.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 989.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 990.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 990.
 Package rerunfilecheck Info: File `CV_JDH_Dec2022.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 989.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 990.
  ) 
 Here is how much of TeX's memory you used:
  21142 strings out of 492970
@@ -1011,6 +1010,6 @@ Here is how much of TeX's memory you used:
  25031 multiletter control sequences out of 15000+600000
  530720 words of font info for 34 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 59i,11n,66p,10469b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,12n,66p,10469b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on CV_JDH_Dec2022.pdf (6 pages).
