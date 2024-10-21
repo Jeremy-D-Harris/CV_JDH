@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # CV of Jeremy D Harris (2024)
 
 -- updated 01/23/2024 --
