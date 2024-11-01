@@ -7,4 +7,5 @@
 -- Just open the pdf in the browser to view/download
 <br>
 
--- If you want to use as a template, note that you have to use xelatex in order to compile; I use texshop as an interface
+-- If you want to use the tex file, note that you have to use xelatex in order to compile
+-- I use Overleaf, which has this as a menu option
